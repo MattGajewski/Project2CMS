@@ -15,7 +15,7 @@
 
 #define STRSIZE 100
 
-
+// test comment
 void main(int argc, char *argv[]) {
 
     extern short iBigBuf[];									// buffer
